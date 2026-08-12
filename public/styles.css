@@ -463,6 +463,11 @@ body.loaded .hero-meta { opacity: 1; }
 .ts.is-title-visible { opacity: 1; }
 .ts--head { font-size: var(--fs-header); }
 .ts--mid  { font-size: var(--fs-d1); }
+/* "SKÓLAVÖRÐUSTÍG" is one unbreakable .tw span (ledger #23's per-word slide
+   unit) and does not fit the clamp floor under ~400px (craft ledger #4). */
+@media (max-width: 400px) {
+  .ts--head { font-size: clamp(2rem, 10.5vw, 2.875rem); }
+}
 
 .tw { display: inline-block; vertical-align: bottom; }
 /* Icelandic acutes on caps sit high; the mask gets headroom and takes it back,
