@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://orr.is/</loc>
+    <xhtml:link rel="alternate" hreflang="is" href="https://orr.is/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://orr.is/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://orr.is/"/>
+  </url>
+  <url><loc>https://orr.is/en/</loc>
+    <xhtml:link rel="alternate" hreflang="is" href="https://orr.is/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://orr.is/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://orr.is/"/>
+  </url>
+</urlset>

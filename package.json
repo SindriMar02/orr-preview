@@ -1,0 +1,9 @@
+{
+  "name": "orr-preview",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "puppeteer-core": "^23.0.0",
+    "pngjs": "^7.0.0"
+  }
+}

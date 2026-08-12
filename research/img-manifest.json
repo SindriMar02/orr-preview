@@ -1,0 +1,102 @@
+{
+ "hero-poster": {
+  "source": "research/homefiles/89825941.jpg",
+  "w": 2400,
+  "h": 3200,
+  "kb": 85
+ },
+ "line-laus": {
+  "handle": "laus-yellow-gold-quartx",
+  "price_eur": 994.0,
+  "title": "Laus Yellow Gold & Quartz",
+  "w": 669,
+  "h": 1000,
+  "kb": 9
+ },
+ "line-hraun": {
+  "handle": "silver-hraun-ring-with-a-blue-spinnel",
+  "price_eur": 265.0,
+  "title": "Silver Hraun Ring with a Blue Spinnel",
+  "w": 1600,
+  "h": 2133,
+  "kb": 35
+ },
+ "line-kinetic": {
+  "handle": "kinetic-multi-coloured-pearl-earrings",
+  "price_eur": 265.0,
+  "title": "Kinetic Multi Coloured Pearl Earrings",
+  "w": 1600,
+  "h": 2390,
+  "kb": 42
+ },
+ "line-deliq": {
+  "handle": "deliquescent-silver-ring",
+  "price_eur": 195.0,
+  "title": "Deliquescent Silver Ring",
+  "w": 1600,
+  "h": 2098,
+  "kb": 39
+ },
+ "line-perla": {
+  "handle": "perla-mix-braclet",
+  "price_eur": 365.0,
+  "title": "Perla Mix Braclet",
+  "w": 1600,
+  "h": 2133,
+  "kb": 45
+ },
+ "j-bradid": {
+  "source": "research/homefiles/D3C6CE26.jpg",
+  "w": 2200,
+  "h": 2933,
+  "kb": 97
+ },
+ "j-laust": {
+  "handle": "laus-yellow-gold-quartx",
+  "price_eur": 994.0,
+  "title": "Laus Yellow Gold & Quartz",
+  "w": 669,
+  "h": 1000,
+  "kb": 9
+ },
+ "j-kvikt": {
+  "handle": "kinetic-multi-coloured-pearl-earrings",
+  "price_eur": 265.0,
+  "title": "Kinetic Multi Coloured Pearl Earrings",
+  "w": 2200,
+  "h": 3286,
+  "kb": 75
+ },
+ "wide-hlekkir": {
+  "handle": "hlekkir-silver-pearls-necklace",
+  "price_eur": 450.0,
+  "title": "Hlekkir Silver & Pearls Necklace",
+  "w": 669,
+  "h": 1000,
+  "kb": 17
+ },
+ "ar-kula": {
+  "handle": "kula-silver-earrings",
+  "price_eur": 80.0,
+  "title": "K\u00fala Silver Earrings",
+  "w": 669,
+  "h": 1000,
+  "kb": 7
+ },
+ "ar-klettur": {
+  "handle": "klettur-silver-ring",
+  "price_eur": 205.0,
+  "title": "Klettur Silver Ring",
+  "w": 1100,
+  "h": 1466,
+  "kb": 15
+ },
+ "ar-perla": {
+  "handle": "perla-mix-braclet",
+  "price_eur": 365.0,
+  "title": "Perla Mix Braclet",
+  "w": 1100,
+  "h": 1466,
+  "kb": 26
+ }
+}
