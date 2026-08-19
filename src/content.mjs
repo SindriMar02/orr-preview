@@ -1,3 +1,8 @@
+import { sndrCredit } from '../../_tools/sndr-credit.mjs';
+
+/* one definition of the credit and the disclaimer, shared by every build */
+const CREDIT = sndrCredit({ nefnifall: 'Orr ehf.', eignarfall: 'Orr ehf.' });
+
 // ORR skartgripir — all copy, is + en.
 // Every price, product name and fact below is lifted verbatim from orr.is
 // (Shopify products.json + pages, read 2026-08-11) or the cited award source.
@@ -359,8 +364,7 @@ export const COPY = {
     footer: {
       lines: ['Orr skartgripir', 'Skólavörðustígur 17b, 101 Reykjavík', 'Sími (+354) 787 6262'],
       years: 'hönnun og handsmíði: Kjartan Örn og Guðbjörg',
-      credit: 'Hugmynd að endurhönnun. SNDR Studio.',
-      note: 'Óopinber hugmyndavinna, ekki í eigu eða á vegum Orr ehf.',
+      ...CREDIT.is,
     },
   },
 
@@ -467,8 +471,7 @@ export const COPY = {
     footer: {
       lines: ['Orr jewellery', 'Skólavörðustígur 17b, 101 Reykjavík', 'Telephone (+354) 787 6262'],
       years: 'designed and hand made by Kjartan Örn and Guðbjörg',
-      credit: 'Redesign concept. SNDR Studio.',
-      note: 'An unofficial concept, not owned by or affiliated with Orr ehf.',
+      ...CREDIT.en,
     },
   },
 };
