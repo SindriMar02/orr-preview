@@ -1,4 +1,4 @@
-import { sndrCredit } from '../../_tools/sndr-credit.mjs';
+import { sndrCredit } from '../../../_tools/sndr-credit.mjs';
 
 /* one definition of the credit and the disclaimer, shared by every build */
 const CREDIT = sndrCredit({ nefnifall: 'Orr ehf.', eignarfall: 'Orr ehf.' });
